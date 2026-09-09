@@ -73,7 +73,7 @@ Before fabrication, printing, or assembly, independently verify dimensions, tole
 
 ## Documentation / 文档
 
-- [标准件型号与数量参考](STANDARD_PARTS.md)
+- [标准件型号与建议采购数量](STANDARD_PARTS.md)
 - [SolidWorks 版本兼容与常见问题](FAQ.md)
 - [项目路线图](ROADMAP.md)
 
