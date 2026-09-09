@@ -11,3 +11,6 @@
 .DS_Store
 Thumbs.db
 desktop.ini
+
+# Generated release package (uploaded as a Release asset)
+*-solidworks-source.zip
