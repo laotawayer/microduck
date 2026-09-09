@@ -35,8 +35,8 @@ models.sha256     Model integrity checksums / 模型校验值
 
 - Main assembly / 主要装配体：`cad/solidworks/microduck.SLDASM`
 - Full STEP export / 整机 STEP：`exports/step/microduck.STEP`
-- Full SolidWorks source package / 完整 SolidWorks 源文件包：[microduck-v0.1.0-solidworks-source.zip](https://github.com/laotawayer/microduck/releases/download/v0.1.0/microduck-v0.1.0-solidworks-source.zip)
-- Directory package / 目录内完整压缩包：`cad/solidworks/microduck-v0.1.0-solidworks-source.zip`
+- Full SolidWorks source package / 完整 SolidWorks 源文件包：[Release ZIP 下载](https://github.com/laotawayer/microduck/releases/download/v0.1.0/microduck-v0.1.0-solidworks-source.zip)
+- Directory package / 目录内完整压缩包：[cad/solidworks/microduck-v0.1.0-solidworks-source.zip](https://github.com/laotawayer/microduck/blob/main/cad/solidworks/microduck-v0.1.0-solidworks-source.zip)
 - Current version / 当前版本：`0.1.0`
 - CAD software / 建模软件：SolidWorks 2023（SW23）
 - Units / 尺寸单位：待作者确认 / To be confirmed
@@ -56,6 +56,17 @@ Before fabrication, printing, or assembly, independently verify dimensions, tole
 
 > [!NOTE]
 > GitHub's repository ZIP may show CAD files as small Git LFS pointer files. To download the actual SolidWorks files, use the complete source package in the Release link above.
+
+## Download / 下载
+
+| 内容 | 下载链接 |
+| --- | --- |
+| SolidWorks 源文件完整压缩包（推荐） | [下载 Release ZIP](https://github.com/laotawayer/microduck/releases/download/v0.1.0/microduck-v0.1.0-solidworks-source.zip) |
+| `cad/solidworks/` 目录内压缩包 | [下载目录 ZIP](https://github.com/laotawayer/microduck/blob/main/cad/solidworks/microduck-v0.1.0-solidworks-source.zip) |
+| 整机 STEP 文件 | [打开 exports/step/microduck.STEP](https://github.com/laotawayer/microduck/blob/main/exports/step/microduck.STEP) |
+| 所有版本和下载统计 | [GitHub Releases](https://github.com/laotawayer/microduck/releases) |
+
+推荐优先使用 Release ZIP；它包含真实 CAD 文件，适合一次性下载和统计下载量。
 
 ## License / 许可
 
