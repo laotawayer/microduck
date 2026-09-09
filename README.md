@@ -35,6 +35,7 @@ models.sha256     Model integrity checksums / 模型校验值
 
 - Main assembly / 主要装配体：`cad/solidworks/microduck.SLDASM`
 - Full STEP export / 整机 STEP：`exports/step/microduck.STEP`
+- Full SolidWorks source package / 完整 SolidWorks 源文件包：[microduck-v0.1.0-solidworks-source.zip](https://github.com/laotawayer/microduck/releases/download/v0.1.0/microduck-v0.1.0-solidworks-source.zip)
 - Current version / 当前版本：`0.1.0`
 - CAD software / 建模软件：SolidWorks 2023（SW23）
 - Units / 尺寸单位：待作者确认 / To be confirmed
@@ -51,6 +52,9 @@ Bearings, fasteners, PCBs, servos, and other commercial components may be includ
 在加工、打印或装配前，请自行核对尺寸、公差、材料、载荷、电气安全和运动干涉。本模型按现状提供，不构成制造、安全或特定用途保证。
 
 Before fabrication, printing, or assembly, independently verify dimensions, tolerances, materials, loads, electrical safety, and mechanical interference. The files are provided as-is without a manufacturing, safety, or fitness guarantee.
+
+> [!NOTE]
+> GitHub's repository ZIP may show CAD files as small Git LFS pointer files. To download the actual SolidWorks files, use the complete source package in the Release link above.
 
 ## License / 许可
 
