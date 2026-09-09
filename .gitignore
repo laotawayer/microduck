@@ -1,0 +1,13 @@
+# SolidWorks temporary, backup, and lock files
+~$*
+*.SLDPRT~
+*.SLDASM~
+*.sldprt~
+*.sldasm~
+*.bak
+*.tmp
+
+# Operating system metadata
+.DS_Store
+Thumbs.db
+desktop.ini
