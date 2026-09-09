@@ -31,6 +31,9 @@ DISCLAIMER.md     Legal and non-affiliation notice / 免责声明
 LICENSE.md        Restrictive source-available terms / 限制性许可条款
 VERSION           Current model version / 当前模型版本
 models.sha256     Model integrity checksums / 模型校验值
+STANDARD_PARTS.md Standard parts BOM / 标准件清单
+FAQ.md            Frequently asked questions / 常见问题
+ROADMAP.md        Project roadmap / 项目路线图
 ```
 
 - Main assembly / 主要装配体：`cad/solidworks/microduck.SLDASM`
@@ -67,6 +70,12 @@ Before fabrication, printing, or assembly, independently verify dimensions, tole
 | 所有版本和下载统计 | [GitHub Releases](https://github.com/laotawayer/microduck/releases) |
 
 推荐优先使用 Release ZIP；它包含真实 CAD 文件，适合一次性下载和统计下载量。
+
+## Documentation / 文档
+
+- [标准件型号与数量参考](STANDARD_PARTS.md)
+- [SolidWorks 版本兼容与常见问题](FAQ.md)
+- [项目路线图](ROADMAP.md)
 
 ## License / 许可
 
