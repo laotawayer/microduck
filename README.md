@@ -36,6 +36,7 @@ models.sha256     Model integrity checksums / 模型校验值
 - Main assembly / 主要装配体：`cad/solidworks/microduck.SLDASM`
 - Full STEP export / 整机 STEP：`exports/step/microduck.STEP`
 - Full SolidWorks source package / 完整 SolidWorks 源文件包：[microduck-v0.1.0-solidworks-source.zip](https://github.com/laotawayer/microduck/releases/download/v0.1.0/microduck-v0.1.0-solidworks-source.zip)
+- Directory package / 目录内完整压缩包：`cad/solidworks/microduck-v0.1.0-solidworks-source.zip`
 - Current version / 当前版本：`0.1.0`
 - CAD software / 建模软件：SolidWorks 2023（SW23）
 - Units / 尺寸单位：待作者确认 / To be confirmed
