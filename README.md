@@ -30,7 +30,7 @@ exports/step/          STEP exchange files / STEP 交换文件
 images/           Preview renders / 模型预览图
 CHANGELOG.md      Version history / 版本变更记录
 DISCLAIMER.md     Legal and non-affiliation notice / 免责声明
-LICENSE.md        Restrictive source-available terms / 限制性许可条款
+LICENSE.md        Non-commercial license terms / 非盈利使用许可
 VERSION           Current model version / 当前模型版本
 models.sha256     Model integrity checksums / 模型校验值
 STANDARD_PARTS.md Standard parts BOM / 标准件清单
@@ -103,9 +103,13 @@ Before fabrication, printing, or assembly, independently verify dimensions, tole
 
 ## License / 许可
 
-本仓库采用严格的定制源码可查看许可，并非 OSI 定义的开源许可证。未经作者事先书面授权，禁止商业使用、制造销售、修改、二次创作、再发布、转换后发布以及以本模型训练数据集或模型。公开访问仓库不代表授予上述权利。
+本仓库欢迎所有非盈利使用方式，包括个人学习、研究、教学、制造、打印、修改、二次创作、格式转换、展示和非盈利分享。个人二创无需另行申请授权。分享时需注明作者与仓库来源，并保留许可说明。
 
-This repository uses a restrictive custom source-available license and is not open source under the OSI definition. Commercial use, fabrication for sale, modification, derivative works, redistribution, republishing converted files, and use as training data are prohibited without the author's prior written permission. Public access does not grant those rights.
+All non-commercial uses are welcome, including personal study, research, teaching, fabrication, printing, modification, derivative works, format conversion, display, and non-commercial sharing. Personal derivatives do not require separate permission. Attribution, a repository link where practical, and the license notice must be preserved when sharing.
+
+未经作者事先书面授权，禁止盈利商用，也禁止将修改或二创后的成果用于盈利商用。包括销售文件或实物、收费打印加工、收费服务、广告赞助变现及商业产品使用。本许可并非 OSI 定义的开源许可证。
+
+Profit-making commercial use of the original files or any derivative work is prohibited without the author's prior written permission. This includes sales, paid fabrication or services, monetized promotion, and commercial products. This is not an OSI-approved open-source license.
 
 完整条款见 [LICENSE.md](LICENSE.md)，身份与第三方权利说明见 [DISCLAIMER.md](DISCLAIMER.md)。
 

@@ -7,5 +7,6 @@
 - Do not claim dimensions, units, manufacturing readiness, compatibility, or testing results without evidence supplied by the author.
 - Do not upload, push, publish, create a remote repository, or make a release without the author's explicit confirmation.
 - Do not assume that third-party reference parts are covered by any license applied to the author's original work.
-- Preserve the restrictive source-available license. Do not describe this repository as OSI-approved open source.
-- Do not grant commercial use, modification, derivative-work, redistribution, or AI-training rights without the author's explicit written authorization.
+- Preserve the non-commercial source-available license. Do not describe this repository as OSI-approved open source.
+- Allow modification, derivative works, fabrication, and sharing for non-commercial purposes when attribution and license conditions are preserved.
+- Do not grant profit-making commercial use of original or derivative works without the author's explicit written authorization.

@@ -1,49 +1,67 @@
-# MicroDuck Model Restricted Source-Available License 1.0
+# MicroDuck Non-Commercial Source-Available License 2.0
 
-Copyright (c) 2026 laotawayer. All rights reserved.
+Copyright (c) 2026 laotawayer. All rights reserved except for the permissions expressly granted below.
 
-## 1. Limited permission to access
+## 1. Non-commercial permission
 
-The copyright holder permits individuals to access and view the files in this repository solely for personal evaluation and reference. No other rights are granted, whether expressly, by implication, estoppel, or otherwise.
+Subject to this license, anyone may use the files for any non-commercial purpose, including:
 
-## 2. Activities requiring prior written permission
+1. viewing, downloading, copying, and studying the files;
+2. modifying, adapting, repairing, optimizing, remixing, and creating derivative works;
+3. converting the files into other CAD, mesh, drawing, image, manufacturing, or exchange formats;
+4. manufacturing, printing, machining, assembling, testing, demonstrating, teaching, researching, and competing on a non-commercial basis; and
+5. sharing or redistributing the original files or non-commercial derivative works.
 
-Unless the copyright holder gives prior written permission that specifically identifies the permitted files and use, you must not:
+Personal modification and derivative creation are welcome. No separate permission is required when the use is entirely non-commercial and all conditions below are followed.
 
-1. copy or reproduce the files, except for technically necessary temporary copies made while viewing the repository;
-2. modify, adapt, translate, repair, optimize, parameterize, remix, or otherwise create derivative works from the files;
-3. convert the files into another CAD, mesh, drawing, image, manufacturing, or exchange format for publication or distribution;
-4. redistribute, sublicense, mirror, publish, upload, share, sell, rent, lend, transfer, or otherwise make the files or derivatives available to another person;
-5. manufacture, print, machine, cast, mold, assemble, or commission physical objects from the files for sale, paid service, promotion, fundraising, organizational use, or any other commercial purpose;
-6. use the files or derivatives in a product, service, research deliverable, competition entry, advertisement, sponsorship, or other activity that produces direct or indirect commercial benefit;
-7. remove, obscure, or alter copyright, attribution, license, trademark, provenance, or non-affiliation notices;
-8. use the files, renders, or derivatives as training, validation, benchmark, or input data for machine learning, generative AI, automated CAD reconstruction, or dataset creation; or
-9. represent this project as official, authorized, sponsored, endorsed, or produced by any referenced rights holder.
+## 2. Conditions for sharing
 
-The restrictions above apply to the complete repository and to any substantial or recognizable portion of its files. Receiving access to the repository, downloading a file, or forking the repository does not constitute written permission.
+When sharing the original files or derivative works, you must:
 
-## 3. Permission requests
+1. identify `laotawayer` as the source author;
+2. provide a link to `https://github.com/laotawayer/microduck` where reasonably possible;
+3. include this license or a clear link to it;
+4. clearly state whether you modified the files; and
+5. not imply that your work is official, authorized, sponsored, or endorsed by the author or another rights holder.
 
-Any exception must be granted in advance in a written statement from the copyright holder. Permission may be limited by file, purpose, person, organization, duration, territory, quantity, or other conditions. Silence or failure to respond is not permission.
+You may apply additional terms to your own contributions only if they do not restrict the non-commercial permissions granted by this license or grant commercial rights in the original material.
 
-## 4. Third-party material
+## 3. Commercial and profit-making use prohibited
 
-This license applies only to rights owned by the copyright holder. It does not license trademarks, trade dress, patents, confidential information, or material owned by third parties. Reference models of commercial components may be subject to separate terms. You are responsible for obtaining every additional permission required for your use.
+Prior written permission from the copyright holder is required for any commercial or profit-making use of the original files or derivative works. Prohibited activities without written permission include, but are not limited to:
 
-## 5. No trademark or affiliation rights
+1. selling, licensing, renting, or charging for files, derivatives, physical parts, kits, or assembled products;
+2. paid printing, machining, conversion, customization, design, consulting, support, or assembly services;
+3. use in a commercial product, paid research deliverable, advertising, promotion, sponsorship, fundraising, or monetized content;
+4. use by or for a business where the use provides direct or indirect commercial advantage; and
+5. commercializing any modified, remixed, converted, or otherwise derivative version.
 
-No right is granted to use the names, logos, or marks of MicroDuck, component manufacturers, or other rights holders. This repository is an independent hobbyist recreation and does not claim affiliation with, authorization by, sponsorship from, or endorsement by any referenced rights holder.
+Charging only the unavoidable direct cost of materials and delivery for a genuinely non-profit community activity is permitted, provided that no labor fee, markup, commission, advertising benefit, or other profit is received.
+
+## 4. Permission requests
+
+Commercial permission must be granted in advance in a written statement from the copyright holder. Permission may be limited by file, purpose, person, organization, duration, territory, quantity, or other conditions. Silence or failure to respond is not permission.
+
+## 5. Third-party material
+
+This license applies only to rights owned by the copyright holder. It does not license trademarks, trade dress, patents, confidential information, or material owned by third parties. Reference models of commercial components may be subject to separate terms. Users are responsible for obtaining any additional permission required for their use.
 
 ## 6. Termination
 
-Any permission under this license terminates automatically and immediately if you breach these terms. Upon termination, you must stop the affected use and delete copies under your control, except where retention is required by law.
+The permissions granted by this license terminate automatically if you breach its terms. They are restored when the breach is cured within 30 days after discovery, unless the copyright holder has already notified you of a previous violation of this license.
 
 ## 7. Disclaimer and limitation of liability
 
 THE FILES ARE PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING WARRANTIES OF ACCURACY, SAFETY, MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND NON-INFRINGEMENT. TO THE MAXIMUM EXTENT PERMITTED BY LAW, THE COPYRIGHT HOLDER IS NOT LIABLE FOR ANY CLAIM, DAMAGE, INJURY, LOSS, OR OTHER LIABILITY ARISING FROM ACCESS TO OR USE OF THE FILES.
 
-## 中文摘要（便于理解，不替代英文条款）
+## 中文说明
 
-版权所有者仅允许个人查看本仓库文件，用于个人评估和参考。除非事先取得版权所有者针对具体文件和用途作出的书面授权，否则禁止复制、修改、二次创作、格式转换后发布、再分发、镜像、转售、制造销售、商业使用、组织用途、竞赛或宣传用途，以及将文件或渲染图用于机器学习、生成式人工智能或数据集。访问、下载或 Fork 本仓库不等于获得授权。第三方商标、产品设计和参考模型不在本许可授权范围内。
+欢迎任何非盈利使用，包括个人学习、研究、教学、比赛、制造、打印、修改、二次创作、格式转换、展示和非盈利分享。个人二创无需另行申请授权。
 
-如中文摘要与英文条款存在差异，以英文条款为准。
+分享原文件或二创成果时，必须注明来源作者 `laotawayer`、尽可能提供仓库链接、附带本许可或许可链接，并说明是否修改过文件。
+
+未经作者事先书面授权，禁止任何盈利或商业用途，包括销售文件或实物、收费打印或加工、收费设计或技术服务、广告及赞助变现、商业产品使用，以及将任何二创、修改或转换后的成果用于商业获利。
+
+真正非盈利的社区活动可以仅收取无法避免的材料和运输成本，但不得收取人工费、加价、佣金，或获得广告及其他利益。
+
+第三方商标、产品设计和参考模型不在本许可授权范围内。如中英文条款理解存在差异，以英文条款为准。
