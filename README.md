@@ -25,6 +25,7 @@ The physical photo shows an assembled build in its current state. Colors, wiring
 ```text
 cad/solidworks/        v0.1.0 SolidWorks source / v0.1.0 源文件
 cad/solidworks-v0.2.0/ v0.2.0 SolidWorks source / v0.2.0 源文件
+cad/solidworks-v0.2.1/ v0.2.1 SolidWorks source / v0.2.1 源文件
 exports/step/          STEP exchange files / STEP 交换文件
 images/           Preview renders / 模型预览图
 CHANGELOG.md      Version history / 版本变更记录
@@ -37,10 +38,10 @@ FAQ.md            Frequently asked questions / 常见问题
 ROADMAP.md        Project roadmap / 项目路线图
 ```
 
-- Main assembly / 主要装配体：`cad/solidworks-v0.2.0/microduck.SLDASM`
-- Full STEP export / 整机 STEP：`exports/step/v0.2.0/microduck-0914.STEP`
-- Full SolidWorks source package / 完整 SolidWorks 源文件包：[v0.2.0 Release ZIP](https://github.com/laotawayer/microduck/releases/download/v0.2.0/microduck-v0.2.0-solidworks-source.zip)
-- Current version / 当前版本：`0.2.0`
+- Main assembly / 主要装配体：`cad/solidworks-v0.2.1/microduck.SLDASM`
+- Full STEP export / 整机 STEP：`exports/step/v0.2.1/microduck-0914.STEP`
+- Full SolidWorks source package / 完整 SolidWorks 源文件包：[v0.2.1 Release ZIP](https://github.com/laotawayer/microduck/releases/download/v0.2.1/microduck-v0.2.1-solidworks-source.zip)
+- Current version / 当前版本：`0.2.1`
 - CAD software / 建模软件：SolidWorks 2023（SW23）
 - Units / 尺寸单位：毫米（mm）
 - Manufacturing validation / 制造验证：已通过 / Passed
@@ -56,6 +57,12 @@ ROADMAP.md        Project roadmap / 项目路线图
 - Simplified the assembly and removed unnecessary components.
 - Confirmed millimetres (mm) as the model unit.
 - Manufacturing validation passed.
+
+## v0.2.1 Update / 更新
+
+- 修复部分模型问题。
+- 进一步精简源文件内容，由 49 个文件调整为 48 个文件。
+- 保持毫米（mm）单位和已通过制造验证的状态。
 
 ## Reference Parts / 参考件
 
@@ -76,12 +83,17 @@ Before fabrication, printing, or assembly, independently verify dimensions, tole
 
 | 内容 | 下载链接 |
 | --- | --- |
-| v0.2.0 SolidWorks 源文件完整压缩包（推荐） | [下载 v0.2.0 Release ZIP](https://github.com/laotawayer/microduck/releases/download/v0.2.0/microduck-v0.2.0-solidworks-source.zip) |
-| v0.2.0 整机 STEP 文件 | [打开 microduck-0914.STEP](https://github.com/laotawayer/microduck/blob/main/exports/step/v0.2.0/microduck-0914.STEP) |
+| v0.2.1 SolidWorks 源文件完整压缩包（推荐） | [下载 v0.2.1 Release ZIP](https://github.com/laotawayer/microduck/releases/download/v0.2.1/microduck-v0.2.1-solidworks-source.zip) |
+| v0.2.1 整机 STEP 文件 | [打开 microduck-0914.STEP](https://github.com/laotawayer/microduck/blob/main/exports/step/v0.2.1/microduck-0914.STEP) |
+| v0.2.0 SolidWorks 源文件包 | [下载 v0.2.0 Release ZIP](https://github.com/laotawayer/microduck/releases/download/v0.2.0/microduck-v0.2.0-solidworks-source.zip) |
 | v0.1.0 SolidWorks 源文件包 | [下载 v0.1.0 Release ZIP](https://github.com/laotawayer/microduck/releases/download/v0.1.0/microduck-v0.1.0-solidworks-source.zip) |
 | 所有版本和下载统计 | [GitHub Releases](https://github.com/laotawayer/microduck/releases) |
 
-推荐优先使用最新的 v0.2.0 Release ZIP；它包含真实 CAD 文件，适合一次性下载和统计下载量。
+推荐优先使用最新的 v0.2.1 Release ZIP；它包含真实 CAD 文件，适合一次性下载和统计下载量。
+
+## Discussion / 评论区
+
+模型问题、装配经验、版本转换和改进建议可在 [GitHub Discussions 评论区](https://github.com/laotawayer/microduck/discussions) 交流。涉及明确文件错误时，仍建议提交 Issue。
 
 ## Documentation / 文档
 
